@@ -10,7 +10,7 @@ gcloud sql users set-password --host % root --instance wordpress --password Pass
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-=====> Replace <external IP of blog vm/32> with Eternal IP of vm/32
+=====> Replace <external IP of blog vm> with Eternal IP of vm/32
 
 export ADDRESS=<external IP of blog vm>/32
 
